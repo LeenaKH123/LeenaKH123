@@ -42,16 +42,16 @@ My focus is helping organisations leverage digital technologies, data, and AI to
 
 ## Featured Projects
 
-### ☁️ AWS Telco BSS/OSS Platform
+###  AWS Telco BSS/OSS Platform
 Enterprise cloud architecture project built using AWS and Terraform, demonstrating networking, security, infrastructure automation, scalability, and telecommunications use cases.
 
-### 🏦 Credit Risk Classification
+###  Credit Risk Classification
 Multi-class machine learning solution for credit score classification, applying feature engineering, statistical modelling, model evaluation, and business-focused insights within a banking context.
 
-### 📉 Telecom Churn Prediction
+###  Telecom Churn Prediction
 Built an end-to-end machine learning pipeline to predict customer churn for a telecommunications provider, combining domain expertise with predictive analytics and data science techniques.
 
-### 🗃️ SQL Analytics Library
+###  SQL Analytics Library
 A collection of SQL solutions covering data analysis, reporting, joins, aggregations, window functions, and real-world business intelligence scenarios.
 
 ---
