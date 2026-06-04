@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/leena-alkhalili/">LinkedIn</a> ·
+  <a href="https://medium.com/@leenamk">Medium</a> ·
   <a href="mailto:engleena@yahoo.com">Email</a>
 </p>
 
@@ -63,7 +64,7 @@ A collection of SQL solutions covering data analysis, reporting, joins, aggregat
 
 ## Certifications & Education
 
-- AWS Certified Solutions Architect – Professional
+- AWS Certified Solutions Architect – Professional (In Progress)
 - Master of Data Science – University of Sydney
 - PMP® – Project Management Professional
 - Certified Scrum Master (CSM)
@@ -98,7 +99,8 @@ A collection of SQL solutions covering data analysis, reporting, joins, aggregat
 ## Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/leena-alkhalili/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/leena-alkhalili/">LinkedIn</a> ·
+  <a href="https://medium.com/@leenamk">Medium</a> ·
   <a href="mailto:engleena@yahoo.com">Email</a>
 </p>
 
