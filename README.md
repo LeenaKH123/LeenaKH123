@@ -31,12 +31,12 @@ My focus is helping organisations leverage digital technologies, data, and AI to
 
 | Area | Focus |
 |--------|---------|
-| ☁️ Cloud Architecture | AWS, Terraform, Infrastructure as Code, Cloud Transformation |
-| 🤖 Data & AI | Machine Learning, Predictive Analytics, AI Solutions |
-| 📊 Data Science | Statistical Modelling, Classification, Business Insights |
-| 🚀 Digital Transformation | Enterprise Transformation, Programme Delivery, Change Leadership |
-| 🔗 Automation & Integration | APIs, Enterprise Integration, Process Automation |
-| 🗄️ Data Management | SQL, Data Modelling, Analytics Engineering |
+|  Cloud Architecture | AWS, Terraform, Infrastructure as Code, Cloud Transformation |
+|  Data & AI | Machine Learning, Predictive Analytics, AI Solutions |
+|  Data Science | Statistical Modelling, Classification, Business Insights |
+|  Digital Transformation | Enterprise Transformation, Programme Delivery, Change Leadership |
+|  Automation & Integration | APIs, Enterprise Integration, Process Automation |
+|  Data Management | SQL, Data Modelling, Analytics Engineering |
 
 ---
 
