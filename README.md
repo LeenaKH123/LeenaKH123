@@ -19,7 +19,7 @@ I am a Digital Transformation and Technology Leader with extensive experience de
 
 My career spans executive stakeholder management, enterprise programme delivery, cloud transformation, enterprise applications, data and AI initiatives, and operational excellence. Having worked across both business and technology functions, I bridge the gap between strategy, architecture, delivery, and value realisation.
 
-Throughout my career, I have worked with global technology leaders including Oracle, Cisco, and IBM, as well as major telecommunications and enterprise organisations, leading large-scale transformation programmes that drive business growth, operational efficiency, and customer experience improvements.
+Throughout my career, I have worked with global technology leaders including Oracle, Cisco, and IBM, as well as major Banking, financial services, telecommunications and enterprise organisations, leading large-scale transformation programmes that drive business growth, operational efficiency, and customer experience improvements.
 
 This GitHub showcases my continued hands-on engagement with cloud computing, data science, artificial intelligence, machine learning, automation, and modern engineering practices. I believe effective transformation leaders should understand not only the business outcomes they are driving, but also the technologies that enable them.
 
