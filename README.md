@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Leena 👋</h1>
+<h1 align="center">Hello, I'm Leena </h1>
 
 <p align="center">
   <strong>Digital Transformation Leader | Cloud, Data & AI | Enterprise Technology</strong><br/>
